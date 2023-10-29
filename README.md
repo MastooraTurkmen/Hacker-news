@@ -1,4 +1,4 @@
-# cV8wvgfq
+# HackerNews
 
 Quick start:
 
