@@ -37,9 +37,13 @@ Head over to https://vitejs.dev/ to learn more about using vite
 
 ![Alt text](Screenshot-4.png)
 
-### _5 Favorites_
+### _Comments_
 
 ![Alt text](Screenshot-5.png)
+
+### _5 Favorites_
+
+![Alt text](Screenshot-6.png)
 
 ## _App JS_
 
