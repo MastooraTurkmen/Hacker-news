@@ -1,5 +1,5 @@
 export default function Comment(comment) {
-//   console.log(comment);
+  //   console.log(comment);
   const hasNestedComments = comment.comments.length > 0;
 
   return `
@@ -8,7 +8,11 @@ export default function Comment(comment) {
         ${comment.user} | ${comment.time_ago}
       </p>
       ${comment.content}
-      ${hasNestedComments ? comment.comments.map(comment => Comment(comment)).join("") : ""}
+      ${
+        hasNestedComments
+          ? comment.comments.map((comment) => Comment(comment)).join("")
+          : ""
+      }
     </div>
-  `  
+  `;
 }
