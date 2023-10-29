@@ -1,5 +1,9 @@
 # HackerNews
 
+> Awareness about the _Hacker News_
+
+> https://wonderful-hacker-news.netlify.app/
+
 Quick start:
 
 ```
